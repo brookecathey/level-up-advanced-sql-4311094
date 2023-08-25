@@ -2,7 +2,7 @@ SELECT firstName, lastName, title
 FROM employee
 LIMIT 5;
 
-GOGO
+GO
 
 SELECT model, EngineType
 FROM model
